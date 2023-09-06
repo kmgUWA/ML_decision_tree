@@ -1,6 +1,6 @@
 # Breast Cancer Wisconsin (Diagnostic) Dataset Analysis
 
-This project involves the analysis of the Breast Cancer Wisconsin (Diagnostic) dataset available in Scikit-Learn. The dataset contains information about breast cancer tumor samples and their classification as malignant or benign. In this project we will train train a few decision tree classifiers on the Breast cancer wisconsin
+This project involves the analysis of the Breast Cancer Wisconsin (Diagnostic) dataset available in Scikit-Learn. The dataset contains information about breast cancer tumor samples and their classification as malignant or benign. In this project we will train a few decision tree classifiers on the Breast cancer wisconsin
 (diagnostic) dataset available on Scikit-Learn and compare their performances.
 
 ## Dataset Description
