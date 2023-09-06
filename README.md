@@ -13,7 +13,7 @@ The Breast Cancer Wisconsin (Diagnostic) dataset consists of the following:
   - Malignant (Class 0) - 212 instances
   - Benign (Class 1) - 357 instances
 
-For more details about the dataset, you can refer to the [official documentation](https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-wisconsin-diagnostic-dataset).
+For more details about the dataset, you can refer to the https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-wisconsin-diagnostic-dataset
 
 ## Tasks
 
